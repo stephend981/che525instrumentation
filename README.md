@@ -17,14 +17,14 @@ In CHE525 a Coriolis flow meter, level transmitter, resistance temperature detec
 |LIT525A|Endress+Hauser|VC00140120E|Percent full (%)|
 
 ### Pictures
-* Coriolis Flow Meter
+Coriolis Flow Meter
   ![Coriolis Flow Meter](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/FIT525A.jpg)
 
-* RTD
+RTD
   ![Resistance Temperature Detector](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/TE525A.jpg)
 
-* Pressure Transmitter
+Pressure Transmitter
   ![Pressure Transmitter](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/PIT525A.jpg)
 
-* Level Transmitter
+Level Transmitter
   ![Level Transmitter](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/LIT525A.jpg)
