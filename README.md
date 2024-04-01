@@ -18,13 +18,17 @@ In CHE525 a Coriolis flow meter, level transmitter, resistance temperature detec
 
 ### Pictures
 Coriolis Flow Meter
-  ![Coriolis Flow Meter](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/FIT525A.jpg)
+
+![Coriolis Flow Meter](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/FIT525A.jpg)
 
 RTD
-  ![Resistance Temperature Detector](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/TE525A.jpg)
+
+![Resistance Temperature Detector](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/TE525A.jpg)
 
 Pressure Transmitter
-  ![Pressure Transmitter](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/PIT525A.jpg)
+
+![Pressure Transmitter](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/PIT525A.jpg)
 
 Level Transmitter
-  ![Level Transmitter](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/LIT525A.jpg)
+
+![Level Transmitter](https://raw.githubusercontent.com/stephend981/che525instrumentation/main/LIT525A.jpg)
